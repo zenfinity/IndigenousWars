@@ -1,0 +1,99 @@
+WarID,War Name,StartYear,EndYear,WikiLink,LengthYears
+200,American Revolutionary War,1775,1784,American Revolutionary War,10
+201,Cherokee–American wars,1776,1796,Cherokee–American wars,21
+202,Northwest Indian War,1785,1794,Northwest Indian War,10
+203,Quasi-War,1798,1801,Quasi-War,4
+204,First Barbary War,1801,1806,First Barbary War,6
+205,Tecumseh's War,1810,1814,Tecumseh's War,5
+206,War of 1812,1812,1816,War of 1812,5
+207,Creek War,1813,1815,Creek War,3
+208,Second Barbary War,1815,1816,Second Barbary War,2
+209,First Seminole War,1817,1819,First Seminole War,3
+210,Arikara War,1823,1824,Arikara War,2
+211,Winnebago War,1827,1828,Winnebago War,2
+212,Black Hawk War,1832,1833,Black Hawk War,2
+213,Texas Revolution,1835,1837,Texas Revolution,3
+214,Second Seminole War,1835,1843,Second Seminole War,9
+215,Mexican–American War,1846,1849,Mexican–American War,4
+216,Cayuse War,1847,1856,Cayuse War,10
+217,Apache Wars,1849,1925,Apache Wars,77
+218,Bleeding Kansas,1854,1862,Bleeding Kansas,9
+219,Puget Sound War,1855,1857,Puget Sound War,3
+220,Rogue River Wars,1855,1857,Rogue River Wars,3
+221,Third Seminole War,1855,1859,Third Seminole War,5
+222,Yakima War,1855,1859,Yakima War,5
+223,Second Opium War,1856,1860,Second Opium War,5
+224,Utah War,1857,1859,Utah War,3
+225,Navajo Wars,1858,1867,Navajo Wars,10
+226,John Brown's Raid on Harpers Ferry,1859,1860,John Brown's Raid on Harpers Ferry,2
+227,First and Second Cortina War,1859,1862,First and Second Cortina War,4
+228,Paiute War,1860,1861,Paiute War,2
+229,American Civil War,1861,1866,American Civil War,6
+230,Yavapai Wars,1862,1876,Yavapai Wars,15
+231,Dakota War of 1862,1862,1863,Dakota War of 1862,2
+232,Colorado War,1863,1866,Colorado War,4
+233,Snake War,1864,1869,Snake War,6
+234,Powder River War,1865,1866,Powder River War,2
+235,Red Cloud's War,1866,1869,Red Cloud's War,4
+236,Comanche Campaign,1867,1876,Comanche Campaign,10
+237,United States expedition to Korea,1871,1872,United States expedition to Korea,2
+238,Modoc War,1872,1874,Modoc War,3
+239,Red River War,1874,1876,Red River War,3
+240,Las Cuevas War,1875,1876,Las Cuevas War,2
+241,Great Sioux War of 1876,1876,1878,Great Sioux War of 1876,3
+242,Buffalo Hunters' War,1876,1878,Buffalo Hunters' War,3
+243,Nez Perce War,1877,1878,Nez Perce War,2
+244,Bannock War,1878,1879,Bannock War,2
+245,Cheyenne War,1878,1880,Cheyenne War,3
+246,Sheepeater Indian War,1879,1880,Sheepeater Indian War,2
+247,Victorio's War,1879,1881,Victorio's War,3
+248,White River War,1879,1880,White River War,2
+249,Crow War,1887,1888,Crow War,2
+250,Pine Ridge Campaign,1890,1892,Pine Ridge Campaign,3
+251,Garza Revolution,1891,1894,Garza Revolution,4
+252,Yaqui Wars,1896,1919,Yaqui Wars,24
+253,Second Samoan Civil War,1898,1900,Second Samoan Civil War,3
+254,Spanish–American War,1898,1899,Spanish–American War,2
+255,Philippine–American War,1899,1903,Philippine–American War,5
+256,Moro Rebellion,1900,1914,Moro Rebellion,15
+257,Boxer Rebellion,1899,1902,Boxer Rebellion,4
+258,Crazy Snake Rebellion,1909,1910,Crazy Snake Rebellion,2
+259,Border War,1910,1920,Border War,11
+260,Negro Rebellion,1912,1913,Negro Rebellion,2
+261,Occupation of Nicaragua,1912,1934,Occupation of Nicaragua,23
+262,Bluff War,1914,1916,Bluff War,3
+263,Occupation of Veracruz,1914,1915,Occupation of Veracruz,2
+264,United States occupation of Haiti,1915,1935,United States occupation of Haiti,21
+265,United States occupation of the Dominican Republic (1916–1924),1916,1925,United States occupation of the Dominican Republic (1916–1924),10
+266,World War I,1917,1919,World War I,3
+267,Russian Civil War,1918,1921,Russian Civil War,4
+268,Last Indian Uprising,1923,1924,Last Indian Uprising,2
+269,World War II,1941,1946,World War II,6
+270,Korean War,1950,1954,Korean War,5
+271,Vietnam War,1955,1976,Vietnam War,22
+272,Laotian Civil War,1953,1976,Laotian Civil War,24
+273,Lebanon crisis,1958,1959,Lebanon crisis,2
+274,Bay of Pigs Invasion,1961,1962,Bay of Pigs Invasion,2
+275,Dominican Civil War,1965,1967,Dominican Civil War,3
+276,Korean DMZ Conflict,1966,1970,Korean DMZ Conflict,5
+277,Cambodian Civil War,1967,1976,Cambodian Civil War,10
+278,Multinational intervention in Lebanon,1982,1985,Multinational intervention in Lebanon,4
+279,Invasion of Grenada,1983,1984,Invasion of Grenada,2
+280,Bombing of Libya,1986,1987,Bombing of Libya,2
+281,Tanker War,1987,1989,Tanker War,3
+282,Invasion of Panama,1989,1991,Invasion of Panama,3
+283,Gulf War,1990,1992,Gulf War,3
+284,Iraqi No-Fly Zone Enforcement Operations,1991,2004,Iraqi No-Fly Zone Enforcement Operations,14
+285,First U.S. Intervention in the Somali Civil War,1992,1996,First U.S. Intervention in the Somali Civil War,5
+286,Bosnian War,1992,1996,Bosnian War,5
+287,Intervention in Haiti,1994,1996,Intervention in Haiti,3
+288,Kosovo War,1998,2000,Kosovo War,3
+289,War in Afghanistan,2001,0,War in Afghanistan,0
+290,Iraq War,2003,2012,Iraq War,10
+291,Second U.S. Intervention in the Somali Civil War,2007,0,Second U.S. Intervention in the Somali Civil War,0
+292,Operation Ocean Shield,2009,2017,Operation Ocean Shield,9
+293,International intervention in Libya,2011,2012,International intervention in Libya,2
+294,Operation Observant Compass,2011,2018,Operation Observant Compass,8
+295,American-led intervention in Iraq,2014,0,American-led intervention in Iraq,0
+296,American-led intervention in Syria,2014,0,American-led intervention in Syria,0
+297,American intervention in Libya,2015,2020,American intervention in Libya,6
